@@ -2,7 +2,7 @@
 
 Atualmente estudando c++
 ##
- <a href="https://github.com/yukioktk">
+ <a href="https://github.com/tiqui">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tiqui&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/tiqui">
@@ -12,10 +12,6 @@ Atualmente estudando c++
 <!--
 **tiqui/tiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
- <a href="https://wakatime.com/@kido">
-<img align="40%" src="https://github-readme-stats.vercel.app/api/wakatime?username=kido&hide_border=true&theme=aura&bg_color=00000000&title_color=bd00ff">
-</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
