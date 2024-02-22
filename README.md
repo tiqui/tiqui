@@ -9,7 +9,6 @@ Atualmente estudando c++
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiqui&layout=compact&theme=chartreuse-dark" />
 </a>
 
--->
 ## Linguagens
 
 <div style="display: inline_block"><br/>
