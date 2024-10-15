@@ -9,10 +9,4 @@ Atualmente estudando c++
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiqui&layout=compact&theme=chartreuse-dark" />
 </a>
 
-## Linguagens
-
-<div style="display: inline_block"><br/>
-   <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-   </div><br/>
-   
 
