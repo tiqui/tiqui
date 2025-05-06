@@ -3,7 +3,7 @@
 Atualmente estudando c++
 ##
    <a href="https://github.com/tiqui">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tiqui&count_private=true&show_icons=true&theme=midnight-purple" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tiqui&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br" />
 </a>
 <a href="https://github.com/tiqui">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiqui&layout=compact&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
@@ -18,5 +18,3 @@ Atualmente estudando c++
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tiqui/tiqui/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-
-</div>
