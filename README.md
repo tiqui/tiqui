@@ -2,10 +2,10 @@
 
 Atualmente estudando c++
 ##
-  <a href="https://github.com/yukioktk">
+   <a href="https://github.com/tiqui">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=yukioktk&count_private=true&show_icons=true&theme=midnight-purple" />
 </a>
-<a href="https://github.com/yukioktk">
+<a href="https://github.com/tiqui">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukioktk&layout=compact&theme=chartreuse-dark" media="(prefers-color-scheme: dark)" />
 </a>
 
@@ -23,4 +23,3 @@ Atualmente estudando c++
   <a href="https://www.coursera.org/user/92a88e7a702061eac9b83ec1593d6a3a" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
   <a href="https://replit.com/@yukiokotaka" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 </div>
-
