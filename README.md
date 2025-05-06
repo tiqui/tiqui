@@ -19,7 +19,4 @@ Atualmente estudando c++
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
-<div> 
-  <a href="https://www.coursera.org/user/92a88e7a702061eac9b83ec1593d6a3a" target="_blank"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" target="_blank"></a>
-  <a href="https://replit.com/@yukiokotaka" target="_blank"><img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
 </div>
