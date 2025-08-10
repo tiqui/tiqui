@@ -1,6 +1,6 @@
 ### Olá! 🚙
 
-Atualmente estudando c++
+Atualmente estudando c++ e Java
 ##
    <a href="https://github.com/tiqui">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tiqui&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br" />
