@@ -1,4 +1,4 @@
-### Olá! 🚙
+### 
 
 Atualmente estudando c++ e Java
 ##
