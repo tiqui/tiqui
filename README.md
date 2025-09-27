@@ -18,3 +18,7 @@ Atualmente estudando c++ e Java
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/tiqui/tiqui/blob/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+<div align="center">
+<img align="center" alt="linux" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
+<img align="center" alt="windows11" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">   
+</div><br>
