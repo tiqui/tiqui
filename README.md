@@ -1,6 +1,6 @@
 <div align="center">
 
-### Atualmente estudando C++ e Java
+### Currently studying Machine Learning, C++, Python and Java.
 
 <br>
 <img alt="linux" height="25" width="35"
