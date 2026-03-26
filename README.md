@@ -8,9 +8,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-origi
 <img alt="windows11" height="25" width="35"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
 <br><br>
-<a href="https://github.com/tiqui">
-  <img height="150"
-       src="https://github-readme-stats.vercel.app/api?username=tiqui&count_private=true&show_icons=true&theme=midnight-purple&locale=pt-br" />
 </a>
 <a href="https://github.com/tiqui">
   <img height="150"
