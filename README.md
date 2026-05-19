@@ -74,8 +74,6 @@ Current interests:
 
 ---
 
-## ```ansi
-[1;32m[ 02 ] STACK[0m
 ```
 
 <div align="center">
@@ -101,8 +99,6 @@ Current interests:
 
 ---
 
-## ```ansi
-[1;32m[ 03 ] METRICS[0m
 ```
 
 <div align="center">
