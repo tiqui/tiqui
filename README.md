@@ -50,7 +50,8 @@ Loading profile modules...
 
 <img align="right" width="280" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VmbnF1cXJ0a2J0MjBvZXNhcDl4bTFwM2JwZTFpcWZxNGNhcnJ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vR85PnGsBwu1PFK/giphy.gif"/>
 
-```text
+```
+text
 I like building systems that feel physical,
 tactile and alive.
 
