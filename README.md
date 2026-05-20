@@ -178,8 +178,4 @@ Current interests:
 
 <div align="center">
 
-```text
-[ CONNECTION CLOSED ]
-```
-
 </div>
