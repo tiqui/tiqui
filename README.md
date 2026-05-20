@@ -36,7 +36,7 @@
 ## SYSTEM INFO
 
 ```text
-> USER............. tiqui
+> USER............. Redellen Yuri
 > ROLE............. Computer Engineering Student
 > ENVIRONMENT...... Linux / Windows
 > CURRENT FOCUS.... Machine Learning + Systems + Automation
@@ -76,6 +76,13 @@ Current interests:
 > low-level interfaces
 > realtime systems
 > retro-futuristic design
+
+> exploring:
+  neural networks
+  realtime interaction
+  computer vision
+  embedded systems
+  low-level graphics
 ```
 
 <br clear="right"/>
@@ -143,25 +150,6 @@ Current interests:
 </div>
 
 ---
-
-## TERMINAL OUTPUT
-
-```text
-> boot sequence complete
-
-> exploring:
-  neural networks
-  realtime interaction
-  computer vision
-  embedded systems
-  low-level graphics
-
-> philosophy:
-  build things that feel alive
-
-> session status:
-  ACTIVE
-```
 
 <br>
 
