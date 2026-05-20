@@ -29,7 +29,7 @@
 
 <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=4AF626"/>
 
-</div>
+<div align="center">
 
 ---
 
