@@ -38,15 +38,14 @@
 ```text
 > USER............. tiqui
 > ROLE............. Computer Engineering Student
-> STATUS........... Online
 > ENVIRONMENT...... Linux / Windows
 > CURRENT FOCUS.... Machine Learning + Systems + Automation
 
-Loading profile modules...
+Profile modules:
 
 [OK] Hand Tracking with MediaPipe/OpenCV
 [OK] Embedded systems and E-Ink displays
-[OK] Experimental interfaces and interaction systems
+[OFF] Experimental interfaces and interaction systems
 [OK] Linux servers / homelab / self-hosting
 [OK] Computer vision and low-level experimentation
 ```
