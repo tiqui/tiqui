@@ -29,14 +29,14 @@
 
 <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=4AF626"/>
 
-<div align="center">
+</div>
 
 ---
 
 ## SYSTEM INFO
 
 ```text
-> USER............. tiqui
+> USER............. Redellen Yuri
 > ROLE............. Computer Engineering Student
 > ENVIRONMENT...... Linux / Windows
 > CURRENT FOCUS.... Machine Learning + Systems + Automation
@@ -76,6 +76,13 @@ Current interests:
 > low-level interfaces
 > realtime systems
 > retro-futuristic design
+
+> exploring:
+  neural networks
+  realtime interaction
+  computer vision
+  embedded systems
+  low-level graphics
 ```
 
 <br clear="right"/>
@@ -144,25 +151,6 @@ Current interests:
 
 ---
 
-## TERMINAL OUTPUT
-
-```text
-> boot sequence complete
-
-> exploring:
-  neural networks
-  realtime interaction
-  computer vision
-  embedded systems
-  low-level graphics
-
-> philosophy:
-  build things that feel alive
-
-> session status:
-  ACTIVE
-```
-
 <br>
 
 <div align="center">
@@ -189,9 +177,5 @@ Current interests:
 ---
 
 <div align="center">
-
-```text
-[ CONNECTION CLOSED ]
-```
 
 </div>
