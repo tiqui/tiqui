@@ -20,8 +20,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=700&lines=BOOTING+PROFILE...;INITIALIZING+SYSTEM...;Machine+Learning+%2F+C%2B%2B+%2F+Python+%2F+Linux;Exploring+low-level+systems+and+experimental+interfaces." />
 <br><br>
 </a>
-<a href="https://wakatime.com/@tiqui">
-  <img src="https://img.shields.io/badge/WakaTime-0D1117?style=for-the-badge&logo=wakatime&logoColor=4AF626"/>
 </a>
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4AF626"/>
 
@@ -122,6 +120,9 @@ Current interests:
     src="https://github-readme-stats.vercel.app/api?username=tiqui&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=4AF626&text_color=8b949e&icon_color=4AF626"
   />
 </a>
+
+<a href="https://wakatime.com/@tiqui">
+  <img src="https://img.shields.io/badge/WakaTime-0D1117?style=for-the-badge&logo=wakatime&logoColor=4AF626"/>
 
 <a href="https://github.com/tiqui">
   <img
