@@ -19,8 +19,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=700&lines=BOOTING+PROFILE...;INITIALIZING+SYSTEM...;Machine+Learning+%2F+C%2B%2B+%2F+Python+%2F+Linux;Exploring+low-level+systems+and+experimental+interfaces." />
 <br><br>
-<a href="https://github.com/tiqui">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=4AF626"/>
 </a>
 <a href="https://wakatime.com/@tiqui">
   <img src="https://img.shields.io/badge/WakaTime-0D1117?style=for-the-badge&logo=wakatime&logoColor=4AF626"/>
