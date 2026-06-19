@@ -17,7 +17,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=900&lines=BOOTANDO+PROFILE...;INITIALIZING+SYSTEM...;Machine+Learning+%2F+C%2B%2B+%2F+Python+%2F+Linux;Exploring+low-level+systems+and+experimental+interfaces." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=900&lines=EM+MANUTENÇÃO...;INITIALIZING+SYSTEM...;Machine+Learning+%2F+C%2B%2B+%2F+Python+%2F+Linux;Exploring+low-level+systems+and+experimental+interfaces." />
 <br><br>
 </a>
 </a>
