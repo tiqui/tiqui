@@ -1,17 +1,29 @@
 <div align="center">
 
-| TERMINAL INTERACTIVE // LOW LEVEL SYSTEM | RETRO INTERFACE |
-| :--- | :--- |
-| <pre>┌─────────────────────────────────────────────────────────────┐<br>│ <b>yuri@github ~ [session: active]</b>                             │<br>├─────────────────────────────────────────────────────────────┤<br>│                                                   <b>╱\_</b>       │<br>│ <b>$ whoami</b>                                         <b>(` - 7</b>     │<br>│ ┌─────────────────────────────────────────────────────────┐ │<br>│ │ <b>Redellen Yuri</b> · Computer Engineering · Vila Velha, BR   │ │<br>│ │ BSc 7th Semester — FAESA · Computer Engineer │ │<br>│ │ Google Cybersecurity Certified · Linux Homelab Sysadmin │ │<br>│ └─────────────────────────────────────────────────────────┘ │<br>│                                                             │<br>│ <b>$ cat stack.conf</b>                                            │<br>│                                                             │<br>│ [ai & vision]      OpenCV · MediaPipe · Neural Networks     │<br>│ [languages]        C/C++ · Python · Java · Bash (Shell)     │<br>│ [systems]          Linux (Ubuntu Server) · Windows · Docker │<br>│ [hardware]         ESP32 · Raspberry Pi · E-Ink Displays    │<br>│ [tools & tech]     Git/GitHub · CasaOS · Tailscale · CRM    │<br>│ [specialty]        Support N1/N2 · Process Optimization     │<br>│                                                             │<br>│ <b>$ cat interests.txt</b>                                         │<br>│                                                             │<br>│ ml models · low-level · terminal aesthetics · automation    │<br>│ realtime systems · computer vision · retro design           │<br>│                                                             │<br>│ <b>$ █</b>                                                         │<br>└─────────────────────────────────────────────────────────────┘</pre> | <pre>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⢸⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠹⣷⣄⠀⠀⠀⠹⣿⣦⡀⠀⠸⣿⣿⣿⣿⣆⠀⠀⢀⣴⡾⠃⠀<br>⠀⠀⠀⠀⠀⠙⣿⣷⣄⠀⠀⠹⣿⣿⣄⠀⢿⣿⣿⣿⣿⡆⣠⣿⡿⠋⠀⠀<br>⠀⠀⠀⢠⡀⠀⠈⢿⣿⣷⡄⠀⠙⣿⣿⣆⠸⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀<br>⠀⠀⠀⠘⣿⣦⡀⠀⠙⢿⣿⣧⡀⠘⣿⣿⡄⢻⣿⣿⣿⣿⠏⠀⣀⣴⠆⠀<br>⠀⠀⠀⠀⠘⢿⣿⣦⡀⠀⠙⢿⣿⣄⠘⣿⣿⡄⢿⣿⣿⡟⢀⣴⣿⠟⠀⠀<br>⠀⠀⢰⣦⡀⠀⠙⢿⣿⣦⡀⠀⠙⢿⣧⠹⣿⣿⡘⣿⣿⣶⣿⡿⠋⠀⠀⠀<br>⠀⠀⠀⠙⢿⣷⣄⣀⠙⢿⣿⣄⠀⠀⠙⠀⠹⣿⣷⡈⢿⣿⠏⠀⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠙⠿⣿⣷⣄⡉⠿⣷⣄⠀⠀⠀⠀⠙⢿⣆⠙⣷⡄⠀⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠈⠙⠿⣿⣦⡈⠻⣷⣄⠀⢀⣤⡀⠻⣧⡈⢿⡄⠀⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢷⣄⠙⢷⣾⣿⣧⠀⠹⣿⣄⢻⡄⠀⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠙⢿⣿⡄⠀⢹⣿⡄⢻⡄⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠙⠇⠀⠘⣿⡇⠘⣿⡄<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀⠀⣿⡇⠀⣿⡇<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢦⡀⣿⡇⢀⣿⡇<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⡇⢸⣿⠁<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⣀⣀⣀⣀⣀⠀⠀⠀⠀⢸⡇⣾⡟⠀<br>⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⢸⣳⣿⠃⠀<br>⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⠏⠀⠀<br>⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠏⠀⠀⠀<br>⠀⠀⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⠀⠀⠀⠀<br>⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀<br>⠀⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀⠀⠀⠀⠀⠀<br>⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀<br>⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</pre> |
+```text
+  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+  ┃                                                           ┃
+  ┃             ████████╗██╗ ██████╗ ██╗   ██╗██╗             ┃
+  ┃             ╚══██╔══╝██║██╔═══██╗██║   ██║██║             ┃
+  ┃                ██║   ██║██║   ██║██║   ██║██║             ┃
+  ┃                ██║   ██║██║▄▄ ██║██║   ██║██║             ┃
+  ┃                ██║   ██║╚██████╔╝╚██████╔╝██║             ┃
+  ┃                ╚═╝   ╚═╝ ╚════▀▀  ╚═════╝ ╚═╝             ┃
+  ┃                                                           ┃
+  ┃         [ PERSONAL SYSTEM // LOW LEVEL INTERFACE ]        ┃
+  ┃                                                           ┃
+  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+```
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=700&lines=BOOTING+PROFILE...;INITIALIZING+SYSTEM...;IT+Support+N1%2FN2+%2F+Systems+Analysis+%2F+Linux;Exploring+infrastructure%2C+networks+and+automation." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4AF626&center=true&vCenter=true&width=700&lines=BOOTING+PROFILE...;INITIALIZING+SYSTEM...;Machine+Learning+%2F+C%2B%2B+%2F+Python+%2F+Linux;Exploring+low-level+systems+and+experimental+interfaces." />
 <br><br>
-
+</a>
+</a>
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=4AF626"/>
+
 <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=4AF626"/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=4AF626"/>
 
 </div>
 
@@ -20,16 +32,172 @@
 ## SYSTEM INFO
 
 ```text
-> USER............. Redellen Yuri[cite: 1]
-> ROLE............. Computer Engineering Student
-> ENVIRONMENT...... Linux / Windows / Environments & Networks
-> CURRENT FOCUS.... Systems Sustentation + IT Support + DevOps / Homelab
+┌─────────────────────────────────────────────────────────────────────┐  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  tiqui@github  ~  [session: active]                                 │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+├─────────────────────────────────────────────────────────────────────┤  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  $ whoami                                                           │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  ┌──────────────────────────────────────────────────────────────┐   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  │  Redellen Yuri · Computer Engineering Student                │   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡀⠔⣐⡵⣾⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  │  Focus: Machine Learning + Systems + Automation              │   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡐⠐⠄⣵⣞⣿⣯⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  │  Environment: Linux / Windows                                │   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠐⢀⢁⢾⣳⣟⣷⣻⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  │  Builds systems that feel physical & alive                   │   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠐⠀⠀⡼⣯⢷⡯⣷⡟⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  └──────────────────────────────────────────────────────────────┘   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠠⠀⠅⡿⣽⣽⣻⣽⡇⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⢼⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡡⡡⡑⠅⣟⣷⣳⢿⣺⣧⠀⠀⠀⠀⠀⠀⠠⠀⢀⠀⣾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  $ cat modules.log                                                  │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⣪⣪⣪⡢⢺⡷⣯⢟⣗⣯⣆⠀⠀⠀⠀⠀⠀⠄⠀⢐⣟⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢳⣗⢷⣝⡖⣿⢯⣟⣟⣾⢽⢦⡀⠀⠀⠀⠐⠀⠀⣺⣽⢾⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [OK]   Hand Tracking with MediaPipe/OpenCV                         │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢾⣻⣺⡪⡮⣿⣳⢯⡾⡯⣟⡷⣤⣀⠀⠂⡈⣠⢷⣻⣽⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [OK]   Embedded systems and E-Ink displays                         │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⢮⢷⡱⡱⣻⡯⣯⢯⢷⢯⣗⣗⣿⡻⣞⣯⢯⡷⣯⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [OFF]  Experimental interfaces & interaction                       │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣳⣳⢘⢼⢝⣯⢿⡽⣽⣺⣺⣺⢽⣻⣞⣟⣾⢯⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [OK]   Linux servers / homelab / self-hosting                      │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣗⢵⢇⠺⣽⡺⡯⡿⣵⣻⣺⡽⣽⣳⣗⡿⣞⡿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [OK]   Computer vision & low-level experiments                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢨⢳⢝⠌⣺⢽⡽⡽⣗⣯⢷⣻⣳⣟⣞⣟⣯⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⡇⢇⠸⣯⢯⡯⣗⣟⣟⡿⣾⣳⣿⡽⠊⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  $ cat stack.conf                                                   │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢑⠜⡔⡈⣯⣯⡯⣷⣳⣗⡯⡿⣽⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⢕⢐⠄⢽⣾⢽⣳⣳⢳⢝⢽⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [languages]    C++ · Python · Java · JS                            │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡂⡂⡂⢽⡾⡯⣗⢯⢺⢸⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [ai & vision]  OpenCV · MediaPipe · ML                             │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡂⠢⠐⡸⣿⢽⡽⡱⡱⣹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [systems]      Linux · Bash · Ubuntu Server                        │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⡈⢐⢸⣯⡳⡏⡗⡕⡝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [hardware]     ESP32 · RaspberryPi · E-Ink                         │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡁⡂⠂⡸⣾⢯⣏⢮⢪⡂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  [tools]        Git · CasaOS · Tailscale                            │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠐⠄⡁⢪⣿⡽⣮⡣⡣⡃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠂⠄⡹⣷⣻⡵⡕⡕⡅⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  $ cat interests.txt                                                │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢐⠨⡈⠄⢺⣯⢷⡫⡎⡎⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⠡⠂⠄⢽⣞⣯⢯⢪⠪⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  ML models · terminal aesthetics · embedded                         │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠨⡈⠄⣪⣷⢯⡳⡕⡕⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  tinkering · retro-futuristic design                                │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠨⢐⠀⢮⡿⡽⣝⢜⢜⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│                                                                     │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠨⢂⠠⣹⡽⣽⡺⡜⡪⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+│  $ _                                                                │  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠨⢂⠐⡼⡯⣗⢗⡕⡭⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+└─────────────────────────────────────────────────────────────────────┘  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠨⠨⢐⠠⢝⣯⢯⡳⡕⣝⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+```
 
-Profile modules:
+<br>
 
-[OK] IT Operations & Support (N1/N2)
-[OK] Systems & Process Analysis
-[OK] Linux servers / Docker containerization / Self-hosting
-[OK] Hand Tracking with MediaPipe/OpenCV
-[OK] Computer vision and low-level experimentation
-[OK] Embedded systems and E-Ink displays
+<img
+  align="right"
+  width="280"
+  src="./giflegal.gif"
+/>
+
+```text
+I like building systems that feel physical,
+tactile and alive.
+
+Most of my projects mix:
+- computer vision
+- embedded hardware
+- Linux environments
+- automation
+- experimental UI
+- generative systems
+
+Current interests:
+> ML models
+> terminal aesthetics
+> low-level interfaces
+> realtime systems
+> retro-futuristic design
+
+> exploring:
+  neural networks
+  realtime interaction
+  computer vision
+  embedded systems
+  low-level graphics
+```
+
+<br clear="right"/>
+
+---
+
+## STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,java,linux,bash,git,github,opencv,raspberrypi,html,css,javascript&theme=dark"/>
+
+</div>
+
+<br>
+
+```text
+┌─────────────────────── TECH OVERVIEW ───────────────────────┐
+
+ LANGUAGES      :: C++ / Python / Java / JavaScript
+ AI & VISION    :: OpenCV / MediaPipe / ML experiments
+ SYSTEMS        :: Linux / Bash / Ubuntu Server
+ HARDWARE       :: ESP32 / Raspberry Pi / E-Ink Displays
+ TOOLS          :: Git / CasaOS / Tailscale
+ DESIGN         :: Retro interfaces / terminal-inspired UI
+
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## METRICS
+
+<div align="center">
+
+<a href="https://github.com/tiqui">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=tiqui&show_icons=true&count_private=true&hide_border=true&bg_color=000000&title_color=4AF626&text_color=8b949e&icon_color=4AF626"
+  />
+</a>
+
+<a href="https://wakatime.com/@tiqui">
+  <img src="https://img.shields.io/badge/WakaTime-0D1117?style=for-the-badge&logo=wakatime&logoColor=4AF626"/>
+
+<a href="https://github.com/tiqui">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiqui&layout=compact&hide_border=true&bg_color=000000&title_color=4AF626&text_color=8b949e"
+  />
+</a>
+
+<br><br>
+
+<a href="https://wakatime.com/@tiqui">
+  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=tiqui&hide_border=true&bg_color=000000&title_color=4AF626&text_color=8b949e"
+  />
+</a>
+
+<br><br>
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=tiqui&bg_color=000000&color=4AF626&line=4AF626&point=FFFFFF&area=true&hide_border=true"
+/>
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/tiqui/tiqui/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/tiqui/tiqui/blob/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="github-snake"
+    src="https://github.com/tiqui/tiqui/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+</div>
